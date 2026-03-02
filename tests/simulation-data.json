@@ -1,0 +1,426 @@
+{
+  "drivers": [
+    {
+      "id": "d_001",
+      "location": {
+        "lat": -17.83881880118047,
+        "lon": 31.056589021846893
+      },
+      "status": "available",
+      "vehicle_type": "bike",
+      "max_batch_size": 5,
+      "isOnline": true,
+      "capacity": 5,
+      "verified": true,
+      "lastUpdate": "2026-02-26T11:00:00Z"
+    },
+    {
+      "id": "d_002",
+      "location": {
+        "lat": -17.821374202495974,
+        "lon": 31.036308153330694
+      },
+      "status": "available",
+      "vehicle_type": "bike",
+      "max_batch_size": 5,
+      "isOnline": true,
+      "capacity": 5,
+      "verified": true,
+      "lastUpdate": "2026-02-26T11:00:00Z"
+    },
+    {
+      "id": "d_003",
+      "location": {
+        "lat": -17.832334176928125,
+        "lon": 31.0487427024643
+      },
+      "status": "available",
+      "vehicle_type": "bike",
+      "max_batch_size": 5,
+      "isOnline": true,
+      "capacity": 5,
+      "verified": true,
+      "lastUpdate": "2026-02-26T11:00:00Z"
+    },
+    {
+      "id": "d_004",
+      "location": {
+        "lat": -17.85339105815056,
+        "lon": 31.05983441225038
+      },
+      "status": "available",
+      "vehicle_type": "bike",
+      "max_batch_size": 5,
+      "isOnline": true,
+      "capacity": 5,
+      "verified": true,
+      "lastUpdate": "2026-02-26T11:00:00Z"
+    },
+    {
+      "id": "d_005",
+      "location": {
+        "lat": -17.83314382724525,
+        "lon": 31.0545092258971
+      },
+      "status": "available",
+      "vehicle_type": "bike",
+      "max_batch_size": 5,
+      "isOnline": true,
+      "capacity": 5,
+      "verified": true,
+      "lastUpdate": "2026-02-26T11:00:00Z"
+    },
+    {
+      "id": "d_006",
+      "location": {
+        "lat": -17.82804874215683,
+        "lon": 31.0604465434275
+      },
+      "status": "available",
+      "vehicle_type": "scooter",
+      "max_batch_size": 5,
+      "isOnline": true,
+      "capacity": 5,
+      "verified": true,
+      "lastUpdate": "2026-02-26T11:00:00Z"
+    },
+    {
+      "id": "d_007",
+      "location": {
+        "lat": -17.819308073654852,
+        "lon": 31.040889022436502
+      },
+      "status": "available",
+      "vehicle_type": "bike",
+      "max_batch_size": 5,
+      "isOnline": true,
+      "capacity": 5,
+      "verified": true,
+      "lastUpdate": "2026-02-26T11:00:00Z"
+    },
+    {
+      "id": "d_008",
+      "location": {
+        "lat": -17.530465770915445,
+        "lon": 31.055967837209412
+      },
+      "status": "available",
+      "vehicle_type": "bike",
+      "max_batch_size": 5,
+      "isOnline": true,
+      "capacity": 5,
+      "verified": true,
+      "lastUpdate": "2026-02-26T11:00:00Z"
+    },
+    {
+      "id": "d_009",
+      "location": {
+        "lat": -17.829767414709732,
+        "lon": 31.06084241632855
+      },
+      "status": "available",
+      "vehicle_type": "bike",
+      "max_batch_size": 5,
+      "isOnline": true,
+      "capacity": 5,
+      "verified": true,
+      "lastUpdate": "2026-02-26T11:00:00Z"
+    },
+    {
+      "id": "d_010",
+      "location": {
+        "lat": -17.827062856619257,
+        "lon": 31.057608927719496
+      },
+      "status": "available",
+      "vehicle_type": "bike",
+      "max_batch_size": 5,
+      "isOnline": true,
+      "capacity": 5,
+      "verified": true,
+      "lastUpdate": "2026-02-26T11:00:00Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "o_00061",
+      "status": "BATCHING",
+      "restaurantId": "r_008",
+      "createdAt": "2026-02-26T11:09:29Z",
+      "pickup": {
+        "lat": -17.7948,
+        "lon": 31.033
+      },
+      "dropoff": {
+        "lat": -17.863547,
+        "lon": 30.975222
+      }
+    },
+    {
+      "id": "o_00019",
+      "status": "BATCHING",
+      "restaurantId": "r_007",
+      "createdAt": "2026-02-26T11:09:55Z",
+      "pickup": {
+        "lat": -17.829,
+        "lon": 31.0538
+      },
+      "dropoff": {
+        "lat": -17.755577631054752,
+        "lon": 31.12190434288298
+      }
+    },
+    {
+      "id": "o_00060",
+      "status": "BATCHING",
+      "restaurantId": "r_004",
+      "createdAt": "2026-02-26T11:12:48Z",
+      "pickup": {
+        "lat": -17.8296,
+        "lon": 31.0547
+      },
+      "dropoff": {
+        "lat": -17.87867347402945,
+        "lon": 30.933382146951427
+      }
+    },
+    {
+      "id": "o_00118",
+      "status": "BATCHING",
+      "restaurantId": "r_006",
+      "createdAt": "2026-02-26T11:13:53Z",
+      "pickup": {
+        "lat": -17.8253,
+        "lon": 31.0456
+      },
+      "dropoff": {
+        "lat": -17.99224777833733,
+        "lon": 31.07627325062238
+      }
+    },
+    {
+      "id": "o_00257",
+      "status": "BATCHING",
+      "restaurantId": "r_002",
+      "createdAt": "2026-02-26T11:15:13Z",
+      "pickup": {
+        "lat": -17.8277,
+        "lon": 31.0534
+      },
+      "dropoff": {
+        "lat": -17.82337680934293,
+        "lon": 31.026918587854794
+      }
+    },
+    {
+      "id": "o_00239",
+      "status": "BATCHING",
+      "restaurantId": "r_006",
+      "createdAt": "2026-02-26T11:15:16Z",
+      "pickup": {
+        "lat": -17.8253,
+        "lon": 31.0456
+      },
+      "dropoff": {
+        "lat": -17.831295183879867,
+        "lon": 31.177720625031924
+      }
+    },
+    {
+      "id": "o_00160",
+      "status": "BATCHING",
+      "restaurantId": "r_003",
+      "createdAt": "2026-02-26T11:16:05Z",
+      "pickup": {
+        "lat": -17.8049,
+        "lon": 31.0472
+      },
+      "dropoff": {
+        "lat": -17.855858934697395,
+        "lon": 31.001272132099317
+      }
+    },
+    {
+      "id": "o_00003",
+      "status": "BATCHING",
+      "restaurantId": "r_003",
+      "createdAt": "2026-02-26T11:19:09Z",
+      "pickup": {
+        "lat": -17.8049,
+        "lon": 31.0472
+      },
+      "dropoff": {
+        "lat": -17.82337680934293,
+        "lon": 31.026918587854794
+      }
+    },
+    {
+      "id": "o_00027",
+      "status": "BATCHING",
+      "restaurantId": "r_002",
+      "createdAt": "2026-02-26T11:21:16Z",
+      "pickup": {
+        "lat": -17.8277,
+        "lon": 31.0534
+      },
+      "dropoff": {
+        "lat": -17.973401,
+        "lon": 31.047362
+      }
+    },
+    {
+      "id": "o_00251",
+      "status": "BATCHING",
+      "restaurantId": "r_004",
+      "createdAt": "2026-02-26T11:21:58Z",
+      "pickup": {
+        "lat": -17.8296,
+        "lon": 31.0547
+      },
+      "dropoff": {
+        "lat": -17.87867347402945,
+        "lon": 30.933382146951427
+      }
+    },
+    {
+      "id": "o_00158",
+      "status": "BATCHING",
+      "restaurantId": "r_006",
+      "createdAt": "2026-02-26T11:22:38Z",
+      "pickup": {
+        "lat": -17.8253,
+        "lon": 31.0456
+      },
+      "dropoff": {
+        "lat": -17.831295183879867,
+        "lon": 31.177720625031924
+      }
+    },
+    {
+      "id": "o_00290",
+      "status": "BATCHING",
+      "restaurantId": "r_003",
+      "createdAt": "2026-02-26T11:24:35Z",
+      "pickup": {
+        "lat": -17.8049,
+        "lon": 31.0472
+      },
+      "dropoff": {
+        "lat": -17.860203228063746,
+        "lon": 31.06201945738454
+      }
+    },
+    {
+      "id": "o_00084",
+      "status": "BATCHING",
+      "restaurantId": "r_008",
+      "createdAt": "2026-02-26T11:25:18Z",
+      "pickup": {
+        "lat": -17.7948,
+        "lon": 31.033
+      },
+      "dropoff": {
+        "lat": -17.838335160930384,
+        "lon": 31.02242590771029
+      }
+    },
+    {
+      "id": "o_00293",
+      "status": "BATCHING",
+      "restaurantId": "r_006",
+      "createdAt": "2026-02-26T11:25:40Z",
+      "pickup": {
+        "lat": -17.8253,
+        "lon": 31.0456
+      },
+      "dropoff": {
+        "lat": -17.973401,
+        "lon": 31.047362
+      }
+    },
+    {
+      "id": "o_00086",
+      "status": "BATCHING",
+      "restaurantId": "r_003",
+      "createdAt": "2026-02-26T11:25:47Z",
+      "pickup": {
+        "lat": -17.8049,
+        "lon": 31.0472
+      },
+      "dropoff": {
+        "lat": -17.755577631054752,
+        "lon": 31.12190434288298
+      }
+    },
+    {
+      "id": "o_00173",
+      "status": "BATCHING",
+      "restaurantId": "r_005",
+      "createdAt": "2026-02-26T11:26:28Z",
+      "pickup": {
+        "lat": -17.8271,
+        "lon": 31.0519
+      },
+      "dropoff": {
+        "lat": -17.863547,
+        "lon": 30.975222
+      }
+    },
+    {
+      "id": "o_00170",
+      "status": "BATCHING",
+      "restaurantId": "r_002",
+      "createdAt": "2026-02-26T11:26:59Z",
+      "pickup": {
+        "lat": -17.8277,
+        "lon": 31.0534
+      },
+      "dropoff": {
+        "lat": -17.84354952731024,
+        "lon": 31.052782386455657
+      }
+    },
+    {
+      "id": "o_00089",
+      "status": "BATCHING",
+      "restaurantId": "r_002",
+      "createdAt": "2026-02-26T11:30:20Z",
+      "pickup": {
+        "lat": -17.8277,
+        "lon": 31.0534
+      },
+      "dropoff": {
+        "lat": -17.84354952731024,
+        "lon": 31.052782386455657
+      }
+    },
+    {
+      "id": "o_00149",
+      "status": "BATCHING",
+      "restaurantId": "r_003",
+      "createdAt": "2026-02-26T11:31:41Z",
+      "pickup": {
+        "lat": -17.8049,
+        "lon": 31.0472
+      },
+      "dropoff": {
+        "lat": -17.87867347402945,
+        "lon": 30.933382146951427
+      }
+    },
+    {
+      "id": "o_00123",
+      "status": "BATCHING",
+      "restaurantId": "r_007",
+      "createdAt": "2026-02-26T11:32:01Z",
+      "pickup": {
+        "lat": -17.829,
+        "lon": 31.0538
+      },
+      "dropoff": {
+        "lat": -17.838335160930384,
+        "lon": 31.02242590771029
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Order {
+  id           String   @id @default(uuid())
+  status       String
+  restaurantId String
+  pickupLat    Float
+  pickupLon    Float
+  dropoffLat   Float
+  dropoffLon   Float
+  createdAt    DateTime @default(now())
+  batchId      String?
+}
+
+model Driver {
+  id           String   @id @default(uuid())
+  lat          Float
+  lon          Float
+  isOnline     Boolean
+  capacity     Int
+  verified     Boolean
+  lastUpdate   DateTime
+  activeJobId  String?
+}
